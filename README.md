@@ -330,4 +330,4 @@ Nmap done: 256 IP addresses (2 hosts up) scanned in 8.50 seconds
 * **Modules:** `W2-PM1` (Multiple Kali Tools) & `W2-PM5` (Zenmap Scanning)
 * **Project:** Footprinting & Network Scanning
 * **Repository:** [NETWORKWALKS-WK2-B084-PENETRATION-TESTING-REPORT](https://github.com/ako123-dev/NETWORKWALKS-WK2-B084-PENETRATION-TESTING-REPORT.git)
-* **LinkedIn:** [Week-2-post]()
+* **LinkedIn:** https://lnkd.in/p/gXHZd5jv
