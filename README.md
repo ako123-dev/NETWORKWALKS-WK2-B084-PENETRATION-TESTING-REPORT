@@ -316,9 +316,7 @@ Nmap done: 256 IP addresses (2 hosts up) scanned in 8.50 seconds
 ```
 
 ### Evidence 8: Zenmap – Local Network Topology Diagram (`W2-PM5`)
-* **Topology View:** Displays `localhost` (`10.63.227.37`) linked directly to active peer node `10.63.227.114`.
-* *(Upload `zenmap.png` and `network topology.png` to your repository and link them here using `![Zenmap Output](zenmap.png)` and `![Network Topology](network%20topology.png)`.)*
-
+![Topology](nt.png)
 ---
 
 **-End-**
